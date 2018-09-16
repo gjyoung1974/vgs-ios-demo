@@ -10,8 +10,7 @@
 The app demonstrates three different use cases of using VGS. Sample is configured to work with [Httpbin](https://httpbin.verygoodsecurity.io/) echo server which should replaced with your API in real case scenario.
 Data that should be secured via VGS is getting replaced with tokens containing prefix `tok_` on proxy response.
 
-<img src="docs/sample-use-cases.png" width="256" alt="Sample use cases">
-
+![Sample use cases](./docs/sample-use-cases.png)
 1. Securing PII data:
 
 <img src="docs/sample-pii-data.png" width="256" alt="Sample PII data">
