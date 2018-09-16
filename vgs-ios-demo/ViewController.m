@@ -28,9 +28,8 @@
 //Our HTTPPost button handler
 - (IBAction)httpPost:(UIButton *)sender {
 
-
     NSError *error;
-    NSString *urlString = @"https://nghttp2.org/httpbin/get";
+    NSString *urlString = @"https://nghttp2.org/httpbin/post";
     NSURL *url = [NSURL URLWithString:urlString];
 
     NSMutableURLRequest *request = [[NSMutableURLRequest alloc] init];
