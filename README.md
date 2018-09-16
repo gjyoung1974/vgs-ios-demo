@@ -1,10 +1,9 @@
-#vgs-ios-demo    
-
-####Sample of using VGS on IOS with three common use cases.</i></p>
+# vgs-ios-demo    
 ![Sample use cases](https://avatars0.githubusercontent.com/u/17788525)
-===
 
-### Quick Start
+### Sample of using VGS on IOS with three common use cases.</i></p>
+
+#### Quick Start
 //TODO: 
 
 ## Use Cases
